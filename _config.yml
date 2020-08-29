@@ -1,10 +1,10 @@
 # site settings
-title: Forty
-subtitle: by HTML5 UP
+title: Ronald Looi
+subtitle: CV
 email: u15226532@tuks.co.za
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
-baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
-url: # the base hostname & protocol for your site
+description: Get to know a little about me.
+baseurl: "/CV" # the subpath of your site, e.g. /blog
+url: rsl-student.github.io
 author:
 street_address: 1234 Somewhere Road
 city: Nashville
@@ -20,9 +20,9 @@ tiles-count: 6
 # social settings
 500px_url:
 facebook_url:
-github_url:
-gitlab_url: https://gitlab.com/andrewbanchich
-googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
+github_url: https://github.com/rsl-student
+gitlab_url: 
+googleplus_url: 
 instagram_url: https://instagram.com
 linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
 pinterest_url:
