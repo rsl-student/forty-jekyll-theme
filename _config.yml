@@ -3,15 +3,15 @@ title: Forty
 subtitle: by HTML5 UP
 email: youremailaddress@gmail.com
 description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
-baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
-url: # the base hostname & protocol for your site
-author:
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
-country: United States of America
-phone: (716) 555-5555
+baseurl: "/CV" # the subpath of your site, e.g. /blog
+url: rsl-student.github.io
+author: Ronald Looi
+street_address: 43 Jakkals Bessie Avenue Bassonia
+city: Johannesburg
+state: Gauteng
+zip_code: 2061
+country: South Africa
+phone: 0786080128
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
